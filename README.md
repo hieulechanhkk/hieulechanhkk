@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Hieu</h1>
 <h3 align="center">Front-End Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474icdwjqnwj9tjzzl4ffrnfki40k8wydo25y9f6eg&rid=giphy.gif&ct=g" />
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47uvi3qmu54es9j19xw54lql6bqqlm2604ev7wmj50&rid=giphy.gif&ct=g" />
 - 👨‍💻 All of my projects: [Porfolio](https://portfolio-dzt1.vercel.app/)
 
 - 💬 Ask me about **ReactJS, NextJS, Vue, GSAP, TailwindCSS**
